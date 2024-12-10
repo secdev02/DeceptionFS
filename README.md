@@ -25,11 +25,11 @@ This repo is designed for 2 things.
 
 To get started you only need Windows Notepad.
 
-Step 0 - enable ProjFS.
+Create your Canarytoken at 
 
-`Enable-WindowsOptionalFeature -Online -FeatureName Client-ProjFS -NoRestart`
+https://canarytokens.org
 
-Step 1 - Compile and run the C# or use the PowerShell Script to install a scheduled Task.
+![image](https://github.com/user-attachments/assets/c109c6da-22e3-4d52-896e-b0d6218ee927)
 
-
+This site, just provides additional routines and ideas to extend and build on.
 
