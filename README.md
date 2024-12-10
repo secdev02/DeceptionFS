@@ -14,7 +14,7 @@ https://github.com/adamplonka/RegFs-csharp
 
 https://github.com/gtworek/PSBits/tree/master/ProjFS
 
-Using Projected File System, we can do in User Mode, what we normally need a filter deiver for.
+Using Projected File System, we can do in User Mode, what we normally need a filter driver for.
 
 This repo is designed for 2 things. 
 
