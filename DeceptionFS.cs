@@ -16,7 +16,7 @@ namespace ProjectedFileSystemProvider
             {
                 Console.WriteLine("Usage: WindowsFakeFS.exe <rootPath> <fileCsv> <alertDomain> <debugMode>");
                 // $(Get-Content .\test_file.csv -Raw)
-                //.\DeceptionFS.exe C:\Secrets {Get-FileContent fakefiles.csv } CanaryFs.dnshook.site true
+                //.\DeceptionFS.exe C:\Secrets $(Get-Content .\fakefiles.csv -Raw)  CanaryFs.dnshook.site true
                 
                 return;
             }
